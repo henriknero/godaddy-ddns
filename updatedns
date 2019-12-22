@@ -1,0 +1,1 @@
+/usr/bin/python3 /home/henrik/godaddy-ddns/godaddy_ddns.py %/home/henrik/godaddy-ddns/godaddy-ddns.config --ttl 600
